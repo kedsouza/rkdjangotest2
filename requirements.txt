@@ -2,7 +2,6 @@ aiohttp==3.7.4.post0
 aniso8601==9.0.1
 asgiref==3.4.1
 async-timeout==3.0.1
-asyncio==3.4.3
 asyncpg==0.24.0
 attrs==21.2.0
 Brotli==1.0.9
