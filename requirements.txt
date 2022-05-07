@@ -16,7 +16,7 @@ dash-core-components==1.14.1
 dash-html-components==1.1.1
 dash-renderer==1.8.3
 dash-table==4.11.1
-Django==3.2.5
+Django==4.0.4
 django-cors-headers==3.10.0
 django-rest-framework==0.1.0
 djangorestframework==3.12.4
